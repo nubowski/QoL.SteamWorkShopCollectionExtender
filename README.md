@@ -2,7 +2,7 @@
 
 SWCE is a simple JavaScript script that helps you manage your Workshop collections more efficiently. It adds two buttons to the collection management interface: one for adding all available items to a collection and another for removing all items from a collection.
 
-![Screenshot](https://downloader.disk.yandex.ru/preview/6bbb9cb000e7b150b9bee866a7a73fe30b0d6a5f1e5b272f16912dd020bbefb6/641e5d8d/PEafINHNTmnyQECg3gkAPOscXAbYGYdF0WcNobfNV9-mmCsHdx51mHXq9PrVBQQHg9cip90qBzRS_2bB8km4rA%3D%3D?uid=0&filename=SWCE.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
+![Screenshot](SWCE.png)
 
 ## Features
 
